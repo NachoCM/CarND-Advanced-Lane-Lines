@@ -34,7 +34,8 @@ The steps taken to achive these goals were:
 [image_lane]: ./examples/sample_lane.png "Final result"
 [video1]: ./output_videos/project_video.mp4 "Video"
 
-## Final result
+## Final result 
+(click for video)
 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GYVUgX-mLOg/0.jpg)](https://youtu.be/GYVUgX-mLOg "Track 1")
